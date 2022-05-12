@@ -68,7 +68,7 @@ install() {
     [ -d ./MinerProxy ] && rm -rf ./MinerProxy
     mkdir ./MinerProxy
 
-    wget https://raw.githubusercontent.com/OutlawQAQ/MinerProxy/main/Linux-64/MinerProxy_v0.0.1_linux_amd64 -O ./MinerProxy/MinerProxy_Linux
+    wget https://raw.githubusercontent.com/OutlawQAQ/MinerProxy/main/Linux-64/MinerProxy_v0.0.2_linux_amd64 -O ./MinerProxy/MinerProxy_Linux
 
     cp -rf ./MinerProxy /etc/
 

@@ -37,7 +37,7 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/OutlawQAQ/MinerProxy@main/scripts/
 ```
 
 ### Windows
-下载完成点击"启动.bat"即可，程序自带进程守护 <a href="https://raw.githubusercontent.com/OutlawQAQ/MinerProxy/main/Windows-64/MinerProxy_v0.0.1_Windows_x64.zip">点击下载Windows版本</a>
+下载完成点击"启动.bat"即可，程序自带进程守护 <a href="https://raw.githubusercontent.com/OutlawQAQ/MinerProxy/main/Windows-64/MinerProxy_v0.0.2_Windows_x64.zip">点击下载Windows版本</a>
 
 ## :meat_on_bone: 重要提示
  * Linux版本首次安装完成请先重启服务器
