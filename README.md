@@ -46,7 +46,8 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/OutlawQAQ/MinerProxy@main/scripts/
 
 ## :meat_on_bone: 更新日志
 ```bash
-2022-05-07 00.00 V0.0.1_测试版本 >>> 发布测试版本
+2022-05-12 00.00 v0.0.2_测试版本 >>> 修复BUG
+2022-05-07 00.00 v0.0.1_测试版本 >>> 发布测试版本
 ```
 
 ## :meat_on_bone: 联系我们
