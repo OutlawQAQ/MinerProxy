@@ -44,8 +44,19 @@ bash <(curl -s -L https://cdn.jsdelivr.net/gh/OutlawQAQ/MinerProxy@main/scripts/
  * 默认端口:9090 默认密码:123456
  * 安装完成后，请立即修改默认密码以及后台默认端口
 
+## :meat_on_bone:UI展示
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/105088698/168458187-5405d725-fdba-4788-988c-45dc60e2044b.png" width="1000"/>
+  <br>
+  <img src="https://user-images.githubusercontent.com/105088698/168458189-fcf8c9ad-74aa-4144-b842-defcb5427678.png" width="1000"/>
+  <br>
+  <img src="https://user-images.githubusercontent.com/105088698/168453203-ee01a802-14d8-4319-9c07-2df4c679ac95.png" width="1000"/>
+</h1>
+
 ## :meat_on_bone: 更新日志
 ```bash
+2022-05-26 00.00 v1.0.0_正式版 >>> 修复BUG
 2022-05-12 00.00 v0.0.2_测试版本 >>> 修复BUG
 2022-05-07 00.00 v0.0.1_测试版本 >>> 发布测试版本
 ```
